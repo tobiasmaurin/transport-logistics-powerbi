@@ -11,6 +11,11 @@ El proyecto consistió en recopilar, limpiar, transformar y analizar 26 meses
 de datos operativos con el objetivo de obtener información sobre costes,
 ingresos, eficiencia de combustible y rentabilidad de los viajes.
 
+## Nota sobre los datos
+
+Este tablero se basa en la operación real de una empresa de transporte de carga de larga distancia. El nombre y la marca son ficticios; clientes, choferes, vehículos, localidades y proveedores figuran con códigos genéricos; y los importes monetarios están escalados por un factor constante. Los kilómetros, litros, fechas y viajes son reales. Todos los porcentajes, ratios y conclusiones del análisis se mantienen inalterados.
+En síntesis: cambia la escala y cambian los nombres; no cambia ninguna conclusión.
+
 ## 🎯 Problema de negocio
 
 La información operativa se encontraba distribuida en diferentes fuentes,
@@ -64,21 +69,29 @@ análisis.
 
 ## 📊 Dashboard
 
-### Vista general
+### Inicio
 
-![Dashboard general](images/dashboard-general.png)
+<img width="1411" height="792" alt="image" src="https://github.com/user-attachments/assets/5cff1448-5160-49d7-afcf-b6c51b113ffc" />
 
-### Análisis de costes
+### Glosario
 
-![Análisis de costes](images/analisis-costes.png)
+<img width="1412" height="792" alt="image" src="https://github.com/user-attachments/assets/69e76ee2-ef23-4b60-9726-df65dc9399f7" />
 
-### Análisis de rentabilidad
+### EERR
 
-![Análisis de rentabilidad](images/analisis-rentabilidad.png)
+<img width="1415" height="792" alt="image" src="https://github.com/user-attachments/assets/4dadcdcb-f649-464e-a175-f793a64fe55a" />
 
-### Análisis de clientes
+### Análisis de costos
 
-![Análisis de clientes](images/analisis-clientes.png)
+<img width="1417" height="797" alt="image" src="https://github.com/user-attachments/assets/d815f1f9-a9f0-439f-a5cf-835bbde0e74d" />
+
+### Análisis por chofer
+
+<img width="1412" height="800" alt="image" src="https://github.com/user-attachments/assets/0fea5218-d9d7-443a-89da-d443bf475723" />
+
+### Pronóstico combustible
+
+<img width="1415" height="797" alt="image" src="https://github.com/user-attachments/assets/9ad7cfae-5e5e-4cb0-bede-f24dc88441d8" />
 
 ## 🔎 Principales hallazgos
 
