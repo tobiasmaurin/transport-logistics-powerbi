@@ -121,4 +121,4 @@ del transporte mediante KPIs y dashboards interactivos.
 
 Data Analyst | Business Intelligence Analyst
 
-[LinkedIn](TU-ENLACE-DE-LINKEDIN)
+[[LinkedIn](TU-ENLACE-DE-LINKEDIN)](https://www.linkedin.com/in/tobiasmaurin/)
