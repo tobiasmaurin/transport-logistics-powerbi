@@ -1,7 +1,5 @@
-# transport-logistics-powerbi
+# 📊 Análisis de unidad de negocio Transporte y Logística | Power BI
 Proyecto de Business Intelligence en Power BI aplicado al análisis de transporte y logística: modelado de datos, DAX, KPIs y forecasting.
-# 📊 Análisis de Transporte y Logística | Power BI
-
 ## 📌 Descripción del proyecto
 
 Proyecto de Business Intelligence desarrollado sobre la unidad de transporte
